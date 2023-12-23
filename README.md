@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheSittingMouse
+- 👀 I’m interested in Python programming, machine learning, and finance
+- 🌱 I’m currently learning reinforcement learning with Python
