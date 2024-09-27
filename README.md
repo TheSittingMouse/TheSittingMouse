@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ozan Cem Baş
-- 👀 I’m interested in Python programming, machine learning, and finance
-- 🌱 I’m currently learning reinforcement learning with Python
+- 👀 I’m interested in Python and C++ programming, machine learning, and finance
